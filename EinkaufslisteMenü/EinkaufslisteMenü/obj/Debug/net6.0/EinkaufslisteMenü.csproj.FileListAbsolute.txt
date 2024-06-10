@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\bin\Debug\net6.0\EinkaufslisteMenü.exe
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\bin\Debug\net6.0\EinkaufslisteMenü.deps.json
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\bin\Debug\net6.0\EinkaufslisteMenü.runtimeconfig.json
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\bin\Debug\net6.0\EinkaufslisteMenü.dll
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\bin\Debug\net6.0\EinkaufslisteMenü.pdb
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\obj\Debug\net6.0\EinkaufslisteMenü.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\obj\Debug\net6.0\EinkaufslisteMenü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\obj\Debug\net6.0\EinkaufslisteMenü.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\obj\Debug\net6.0\EinkaufslisteMenü.AssemblyInfo.cs
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\obj\Debug\net6.0\EinkaufslisteMenü.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\obj\Debug\net6.0\EinkaufslisteMenü.dll
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\obj\Debug\net6.0\refint\EinkaufslisteMenü.dll
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\obj\Debug\net6.0\EinkaufslisteMenü.pdb
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\obj\Debug\net6.0\EinkaufslisteMenü.genruntimeconfig.cache
+C:\Users\User\source\repos\EinkaufslisteMenü\EinkaufslisteMenü\obj\Debug\net6.0\ref\EinkaufslisteMenü.dll
